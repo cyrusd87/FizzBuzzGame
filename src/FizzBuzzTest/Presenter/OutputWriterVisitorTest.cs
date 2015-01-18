@@ -5,7 +5,7 @@ using NUnit.Framework;
 
 namespace FizzBuzzTest.Presenter
 {
-    public class OutputWriterVisitor
+    public class OutputWriterVisitorTest
     {
 
         private MockRepository _repository;

@@ -46,7 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Presenter\ConsoleWriterTest.cs" />
-    <Compile Include="Presenter\OutputWriterVisitor.cs" />
+    <Compile Include="Presenter\OutputWriterVisitorTest.cs" />
     <Compile Include="FizzBuzzTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
